@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 
 export default function() {
 
-  useEffect(() =>{fetch("https://adw-e-commerce-backend.herokuapp.com/")})
+  useEffect(() =>{fetch("https://adw-e-commerce-backend.herokuapp.com/product")})
 
   return (
     <div>
