@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "proxy": "http://localhost:5000",
   "description": "Basic skeleton codebase for React/Redux/Router applications.",
+  "engines": {
+    "node": "16.16.0"
+  },
   "scripts": {
     "preinstall": "npm set audit false",
     "start": "webpack-dev-server --config webpack/dev.config.js --watch",
@@ -27,7 +30,7 @@
     "sass",
     "css module"
   ],
-  "author": "Your Name Here",
+  "author": "Alec Whitten",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bottega-code-school/js-builder/issues"
