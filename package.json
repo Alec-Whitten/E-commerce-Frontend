@@ -72,7 +72,7 @@
     "mailslurp-client": "^15.14.1",
     "mysql": "github:mysqljs/mysql",
     "net": "^1.0.2",
-    "sass": "1.54.5",
+    "sass": "^1.54.5",
     "postcss-loader": "^2.1.6",
     "react": "16.13.1",
     "react-dom": "16.13.1",
