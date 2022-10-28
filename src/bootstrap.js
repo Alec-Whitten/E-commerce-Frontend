@@ -8,10 +8,10 @@ import reducers from "./reducers";
 
 const createStoreWithMiddleware = applyMiddleware()(createStore);
 
-import "./style/main.scss";
-import "./style/nav.scss";
-import "./style/catalog.scss";
-import "./style/order.scss";
+import "./style/main.css";
+import "./style/nav.css";
+import "./style/catalog.css";
+import "./style/order.css";
 
 function main() {
   ReactDOM.render(
